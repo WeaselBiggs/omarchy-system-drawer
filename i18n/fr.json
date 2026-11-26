@@ -1,0 +1,9 @@
+{
+  "screensaver": "Écran de veille",
+  "lock": "Verrouiller",
+  "suspend": "Veille",
+  "hibernate": "Hiberner",
+  "logout": "Déconnexion",
+  "reboot": "Redémarrer",
+  "shutdown": "Éteindre"
+}

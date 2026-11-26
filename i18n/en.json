@@ -1,0 +1,9 @@
+{
+  "screensaver": "Screensaver",
+  "lock": "Lock",
+  "suspend": "Suspend",
+  "hibernate": "Hibernate",
+  "logout": "Logout",
+  "reboot": "Reboot",
+  "shutdown": "Shutdown"
+}

@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "id": "dan.system-drawer",
+  "name": "System Drawer",
+  "version": "1.0.0",
+  "author": "Forsythe McSquiddington",
+  "description": "The System menu as an icon drawer that pulls out of the left screen edge, by pointer or by key",
+  "kinds": [
+    "service"
+  ],
+  "entryPoints": {
+    "service": "SystemDrawer.qml"
+  }
+}
